@@ -2,4 +2,4 @@
 
 A practice of portfolio mockup.
 
-[!image](/images/sample.png)
+![image](/images/sample.png)
